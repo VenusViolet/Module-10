@@ -211,7 +211,7 @@ const init = () => {
         createIntern();
         break;
       default:
-        buildTeam();
+        console.log("great job!")
       // Build our team!
     }
   };
